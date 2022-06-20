@@ -1,0 +1,7 @@
+amenity: hospital, schools, toilets,
+boundary: national_parks, forest, protected areas, adminstative, border_zone
+building: residential, hospital, school, university
+highway: all highways
+landuse: forest
+place
+waterways: all waterways
